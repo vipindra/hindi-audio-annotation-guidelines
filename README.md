@@ -1,4 +1,5 @@
 # Hindi-English Audio Annotation & Quality Assurance
+**[📊 View the Project Architecture & Operational Blueprint PDF here](./Indic_Audio_Annotation_Blueprint.pdf)**
 
 This repository contains operational guidelines, quality assurance workflows, and sample datasets for processing Hindi and mixed Hindi-English (Hinglish) audio data. 
 
