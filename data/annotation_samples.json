@@ -1,0 +1,34 @@
+[
+  {
+    "audio_id": "HIN_ENG_001",
+    "transcript": "Sir, mera network connectivity issue ho raha hai subah se.",
+    "category": "hinglish_standard",
+    "confidence_score": 0.98,
+    "tags": ["customer_support", "code_switching"],
+    "reviewer_notes": "Clean audio. Standard Hinglish transcription approved."
+  },
+  {
+    "audio_id": "HIN_REG_045",
+    "transcript": "Bhaiya, gaadi thoda aage badhana, piche [unintelligible] hai.",
+    "category": "noisy_environment",
+    "confidence_score": 0.75,
+    "tags": ["background_traffic", "unclear_speech"],
+    "reviewer_notes": "Correct application of unintelligible tag due to heavy truck horn. Approved."
+  },
+  {
+    "audio_id": "HIN_PRN_089",
+    "transcript": "Woh school gaya hai apne dost ke saath.",
+    "category": "pronunciation_variation",
+    "confidence_score": 0.95,
+    "tags": ["regional_accent"],
+    "reviewer_notes": "Speaker pronounced 'school' as 'iskool'. Transcription correctly uses standard spelling with regional tag."
+  },
+  {
+    "audio_id": "HIN_ERR_112",
+    "transcript": "Hum market gaye the par dukan band thi.",
+    "category": "qa_rejection_example",
+    "confidence_score": 0.80,
+    "tags": ["needs_review"],
+    "reviewer_notes": "REJECTED. The speaker clearly says 'bazaar', not 'market'. Do not localize terms. Transcribe exactly what is spoken."
+  }
+]
